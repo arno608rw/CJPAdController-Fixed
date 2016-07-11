@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'CJPAdController-Fixed'
+  s.name = 'CJPAdController'
   s.version = '0.0.1'
   s.summary = 'A simple, easy way to add iAd and AdMob ads to a view controller. Fork on CJPAdController'
   s.description = <<-DESC
