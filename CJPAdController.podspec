@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'CJPAdController'
+  s.name = 'CJPAdController-Fixed'
   s.version = '0.0.1'
   s.summary = 'A simple, easy way to add iAd and AdMob ads to a view controller. Fork on CJPAdController'
   s.description = <<-DESC
@@ -20,7 +20,7 @@ CJPAdController is a singleton class allowing easy implementation of iAd and AdM
       :git => 'https://github.com/arno608rw/CJPAdController-Fixed.git',
       :tag => s.version.to_s
   }
-  s.source_files = 'CJPAdController/*.{h,m}'
+  s.source_files = 'CJPAdController-Fixed/*.{h,m}'
   s.frameworks = 'iAd', 'AdSupport'
   s.requires_arc = true
   s.dependency 'Google-Mobile-Ads-SDK'
