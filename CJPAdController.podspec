@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name = 'CJPAdController-Fixed'
   s.version = '0.0.1'
-  s.summary = 'A simple, easy way to add iAd and AdMob ads to a view controller.'
+  s.summary = 'A simple, easy way to add iAd and AdMob ads to a view controller. Fork on CJPAdController'
   s.description = <<-DESC
-CJPAdController is a singleton class allowing easy implementation of iAd and AdMob ads in your iOS app. It supports all devices and orientations.
+CJPAdController is a singleton class allowing easy implementation of iAd and AdMob ads in your iOS app. It supports all devices and orientations. Fork on CJPAdController.
 
 * Choose which one serves as your default ads, and the other will show whenever an ad is not available.
 * Option to display the ads at the top or the bottom of your views.
@@ -12,12 +12,12 @@ CJPAdController is a singleton class allowing easy implementation of iAd and AdM
                   DESC
   s.screenshots = ['http://i.imgur.com/dxUHvLK.png', 'http://i.imgur.com/rvdpr2Z.png']
   s.license = 'MIT'
-  s.homepage = 'http://chrisphillips.co.uk'
-  s.author = { 'Chris Phillips' => 'chrisjp88@gmail.com' }
-  s.social_media_url = 'http://twitter.com/ChrisJP88'
+  s.homepage = 'https://arnosoft.com'
+  s.author = { 'Thitipong Wongsatho' => 'arno608rw@gmail.com' }
+
   s.platform = :ios, '6.0'
   s.source = {
-      :git => 'https://github.com/chrisjp/CJPAdController.git',
+      :git => 'https://github.com/arno608rw/CJPAdController-Fixed.git',
       :tag => s.version.to_s
   }
   s.source_files = 'CJPAdController/*.{h,m}'
