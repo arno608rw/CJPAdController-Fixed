@@ -12,10 +12,10 @@ CJPAdController is a singleton class allowing easy implementation of iAd and AdM
                   DESC
   s.screenshots = ['http://i.imgur.com/dxUHvLK.png', 'http://i.imgur.com/rvdpr2Z.png']
   s.license = 'MIT'
-  #s.homepage = 'https://github.com/arno608rw/CJPAdController-Fixed'
+  s.homepage = 'https://github.com/arno608rw/CJPAdController-Fixed'
   s.author = { 'Thitipong Wongsatho' => 'arno608rw@gmail.com' }
 
-  s.platform = :ios, '6.0'
+  s.platform = :ios, '7.0'
   s.source = {
       :git => 'https://github.com/arno608rw/CJPAdController-Fixed.git',
       :tag => s.version.to_s
