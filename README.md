@@ -1,6 +1,6 @@
-# CJPAdController 1.7.1
+# CJPAdController-Fixed 0.0.1 Fork on CJPAdController'
 
-CJPAdController is a singleton class allowing easy implementation of iAd and Google AdMob ads in your iOS app. It supports all devices and orientations, and works on iOS 6.0+
+CJPAdController is a singleton class allowing easy implementation of iAd and Google AdMob ads in your iOS app. It supports all devices and orientations, and works on iOS 6.0+. Fork on CJPAdController'
 
 ## Features
 * Choose whether to show both iAd and AdMob, or just one of them
