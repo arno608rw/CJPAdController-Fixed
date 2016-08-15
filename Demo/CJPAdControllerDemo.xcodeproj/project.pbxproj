@@ -19,6 +19,7 @@
 		838343791A8460D400098483 /* AnotherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 838343781A8460D400098483 /* AnotherViewController.m */; };
 		8383437D1A84617100098483 /* CJPAdController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8383437C1A84617100098483 /* CJPAdController.m */; };
 		839C13131BB09A1900E4F0F5 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 839C13121BB09A1900E4F0F5 /* GoogleMobileAds.framework */; };
+		F5B5F86C1D6222110026E0FB /* CJPAdController-Fixed.podspec in Resources */ = {isa = PBXBuildFile; fileRef = F5B5F86B1D6222110026E0FB /* CJPAdController-Fixed.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		839C13121BB09A1900E4F0F5 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMobileAds.framework; path = ../../GoogleMobileAdsSdk/GoogleMobileAds.framework; sourceTree = "<group>"; };
 		A183E42A9260BCCE5DE2C5F8 /* Pods-CJPAdControllerDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CJPAdControllerDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CJPAdControllerDemo/Pods-CJPAdControllerDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		DB5864B7590002AF2114CEAA /* Pods-CJPAdControllerDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CJPAdControllerDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-CJPAdControllerDemo/Pods-CJPAdControllerDemo.release.xcconfig"; sourceTree = "<group>"; };
+		F5B5F86B1D6222110026E0FB /* CJPAdController-Fixed.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CJPAdController-Fixed.podspec"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 		838343501A845E1C00098483 /* CJPAdControllerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F5B5F86B1D6222110026E0FB /* CJPAdController-Fixed.podspec */,
 				838343551A845E1C00098483 /* AppDelegate.h */,
 				838343561A845E1C00098483 /* AppDelegate.m */,
 				838343581A845E1C00098483 /* RootViewController.h */,
@@ -254,6 +257,7 @@
 				8383435D1A845E1C00098483 /* NavController.storyboard in Resources */,
 				838343621A845E1C00098483 /* LaunchScreen.xib in Resources */,
 				831B3EA21BB83B5D00C195CF /* TabController.storyboard in Resources */,
+				F5B5F86C1D6222110026E0FB /* CJPAdController-Fixed.podspec in Resources */,
 				8383435F1A845E1C00098483 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
