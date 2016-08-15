@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F80F7075DED31B5FB5C8F736D5AE52E25CE3EC3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6F80F7075DED31B5FB5C8F736D5AE52E25CE3EC3" : 0,
+    "22AFC0063BA71FF50A515BD0550E0791A66CA44B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E5C2D598-34A4-4601-866E-B64A0B6D339B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6F80F7075DED31B5FB5C8F736D5AE52E25CE3EC3" : "CJPAdController-Fixed\/",
+    "22AFC0063BA71FF50A515BD0550E0791A66CA44B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CJPAdControllerDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo\/CJPAdControllerDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrackwitz\/MRProgress",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22AFC0063BA71FF50A515BD0550E0791A66CA44B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arno608rw\/CJPAdController-Fixed",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F80F7075DED31B5FB5C8F736D5AE52E25CE3EC3"
+    }
+  ]
+}

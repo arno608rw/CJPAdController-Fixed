@@ -1,0 +1,6 @@
+framework module Pods_CJPAdControllerDemo {
+  umbrella header "Pods-CJPAdControllerDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

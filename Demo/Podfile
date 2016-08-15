@@ -1,0 +1,8 @@
+platform :ios, '6.0'
+use_frameworks!
+
+target "CJPAdControllerDemo" do
+
+    pod 'Google-Mobile-Ads-SDK'
+
+end
